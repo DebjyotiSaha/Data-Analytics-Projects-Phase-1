@@ -13,6 +13,12 @@ Before accessing the files, make sure that you have these libraries in your syst
 8. Matplotlib.pyplot
 
 The current repository consist of 5 projects.
+1. Text data Analysis
+2. Sales Data Analysis
+3. Time Series Analysis
+4. IPL Data Analysis
+5. Geo Spatial Analysis
+6. Finance Data Analysis
 
 Link to Dataset
 Link:- https://drive.google.com/drive/folders/1jsOpULxHY470PiTDMB-slZE8C0hpPQSj?usp=sharing
