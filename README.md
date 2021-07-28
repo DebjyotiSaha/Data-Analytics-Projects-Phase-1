@@ -19,6 +19,8 @@ The current repository consist of 5 projects.
 4. IPL Data Analysis
 5. Geo Spatial Analysis
 6. Finance Data Analysis
+7. Amazon Customer Analysis
 
 Link to Dataset
 Link:- https://drive.google.com/drive/folders/1jsOpULxHY470PiTDMB-slZE8C0hpPQSj?usp=sharing
+Amazon Project Link:- https://www.kaggle.com/debjyotisaha/amazon-customer-database
